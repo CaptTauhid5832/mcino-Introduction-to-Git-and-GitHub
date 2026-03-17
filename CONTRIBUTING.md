@@ -1,1 +1,31 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+# Contributor Covenant Code of Conduct
+cat <<EOF > CODE_OF_CONDUCT.md
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+
+## Our Standards
+Examples of behavior that contributes to a positive environment include using welcoming and inclusive language and being respectful of differing viewpoints.
+
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
+
+## Scope
+This Code of Conduct applies within all community spaces.
+
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
+EOF
+
+git add CODE_OF_CONDUCT.md
+git commit -m "Add CODE_OF_CONDUCT.md for Task 3"
+git push origin main
+Project leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
+
